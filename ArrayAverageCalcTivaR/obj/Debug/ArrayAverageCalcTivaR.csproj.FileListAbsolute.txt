@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ArrayAverageCalcTivaR\ArrayAverageCalcTivaR\bin\Debug\ArrayAverageCalcTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ArrayAverageCalcTivaR\ArrayAverageCalcTivaR\bin\Debug\ArrayAverageCalcTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ArrayAverageCalcTivaR\ArrayAverageCalcTivaR\bin\Debug\ArrayAverageCalcTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ArrayAverageCalcTivaR\ArrayAverageCalcTivaR\obj\Debug\ArrayAverageCalcTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ArrayAverageCalcTivaR\ArrayAverageCalcTivaR\obj\Debug\ArrayAverageCalcTivaR.frmArrayAverageCalc.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ArrayAverageCalcTivaR\ArrayAverageCalcTivaR\obj\Debug\ArrayAverageCalcTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ArrayAverageCalcTivaR\ArrayAverageCalcTivaR\obj\Debug\ArrayAverageCalcTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ArrayAverageCalcTivaR\ArrayAverageCalcTivaR\obj\Debug\ArrayAverageCalcTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ArrayAverageCalcTivaR\ArrayAverageCalcTivaR\obj\Debug\ArrayAverageCalcTivaR.pdb
